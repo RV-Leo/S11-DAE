@@ -11,7 +11,7 @@ describe('movie listings', () => {
       expect(movie).toEqual(expect.objectContaining({
         id: expect.any(String),
         title: expect.any(String),
-        poster: expect.any(String),
+        posterUrl: expect.any(String),
         synopsis: expect.any(String),
         ageRating: expect.any(String),
         rating: expect.any(Number),

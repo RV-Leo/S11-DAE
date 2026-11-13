@@ -4,7 +4,7 @@ import { Hero } from './Hero.jsx'
 
 const firstMovie = {
   title: 'La última linterna',
-  poster: '/posters/last-lantern.svg',
+  posterUrl: '/posters/last-lantern.svg',
   synopsis: 'Una farera descubre señales desde el mar.',
   ageRating: '12+',
   rating: 8.7,
