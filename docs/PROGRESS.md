@@ -2,8 +2,8 @@
 
 ## Pasos
 
-- [ ] Paso 00 — AGENTS.md y registro
-- [ ] Paso 01 — Base del laboratorio 10 y rama lab-11
+- [x] Paso 00 — AGENTS.md y registro — `ac7928a`
+- [x] Paso 01 — Base del laboratorio 10 y rama lab-11 — verificación lista; hash al registrar el commit
 - [ ] Paso 02 — Tipografía y utilidades
 - [ ] Paso 03 — Adaptador de datos
 - [ ] Paso 04 — Toast de favoritas
@@ -20,6 +20,7 @@
 
 - Se continúa desde `S10-DAE/cinema-app`; los slugs de ids existentes se conservan.
 - Los pasos cercanos se agrupan en commits locales; se hará un push al final en `lab-11`.
+- El brief no da URL remota; se tomará `RV-Leo/S11-DAE` por continuidad con S10 y se verificará antes del push.
 - El fallo simulado de estrenos se controla con `?premieres=error` y se pasa al hook como opción.
 - No se redacta el entregable ni se guardan capturas para el campus.
 
