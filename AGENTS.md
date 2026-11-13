@@ -66,16 +66,23 @@ S11-DAE/
 └── cinema-app/
     ├── public/posters/
     └── src/
-        ├── App.jsx · data/rawListings.js · utils/movieAdapter.js
-        ├── hooks/useDebounce.js · useWindowSize.js · usePremieres.js
-        ├── services/notify.js · styles/
-        └── components/ (Header · Hero · MovieList · MovieCard · Premieres)
+        ├── App.jsx · App.test.jsx · main.jsx
+        ├── data/ (rawListings · rawPremieres · movies)
+        ├── hooks/ (useDebounce · useWindowSize · usePremieres)
+        ├── services/notify.js · utils/movieAdapter.js · styles/
+        ├── test/setup.js
+        └── components/
+            ├── Button/ · Header/ · Footer/ · Hero/
+            ├── MovieSearch/ · MovieList/ · MovieCard/
+            └── Premieres/ (Skeleton · PremieresCarousel · PremieresSection)
 ```
 
 ## Comandos y reglas
 
 En `cinema-app/`: `npm install`, `npm run dev`, `npm run lint`, `npm run build`, `npm test`.
 Código en inglés; documentación en español. No subir dependencias instaladas, `dist` ni secretos. Commits locales agrupados y push único al final según preferencia del alumno.
+
+Dependencias principales: React 19, Vite 8, Vitest 5, React Hot Toast 2.6 y Swiper 14.
 
 ## Diseño y terminado
 
