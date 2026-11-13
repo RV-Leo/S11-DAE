@@ -5,7 +5,7 @@
 - [x] Paso 00 — Guía del agente y registro — `ac7928a` · 2026-11-13 00:34 -05
 - [x] Paso 01 — Base lab 10, rama `lab-11` — `734e9ea` · 2026-11-13 00:37 -05
 - [x] Pasos 02–10 — Estilos, adaptador, toasts, hooks, estrenos simulados, contador y filtro — `594f6b3` · 2026-11-13 00:45 -05
-- [x] Pasos 11–12 — Árbol de componentes, decisiones y cierre README — commit final de documentación (registrar hash al cierre)
+- [x] Pasos 11–12 — Árbol de componentes, decisiones y cierre README — `8c461e5` · 2026-11-13 00:47 -05
 
 Se agruparon pasos relacionados en tres commits de trabajo y un push final de la rama.
 
