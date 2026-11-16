@@ -34,3 +34,8 @@ App — favoriteIds, query; decide shouldFailPremieres desde la URL
 `movieAdapter` convierte `rawListings` y `rawPremieres` a los objetos que consumen las vistas. El error de estrenos se muestra con `?premieres=error`; se puede probar el estado normal cargando la página sin ese parámetro.
 
 Los estilos globales se importan en orden: tokens, base, layout, forms y utilities; cada componente mantiene su CSS al lado de su JSX. No se creó el entregable ni capturas para el campus.
+
+<img width="1246" height="843" alt="image" src="https://github.com/user-attachments/assets/4006a375-4f9b-4013-a1ff-e15c4486e649" />
+<img width="1327" height="821" alt="image" src="https://github.com/user-attachments/assets/031caab8-233a-42ec-b6a3-99eff57e798f" />
+
+
